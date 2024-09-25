@@ -13,13 +13,14 @@
 - Backend: Django, Django Rest Framework
 - Frontend: HTML, JavaScript (Fetch API)
 - База данных: SQLite
+- Тесты: Pytest
 
 ## Установка
 
 1. Клонируйте репозиторий:
 
 ```sh
-git clone https://github.com/
+git clone git@github.com:vhg860/Product_api.git
 cd 
 ```
 2. Установите зависимости:
